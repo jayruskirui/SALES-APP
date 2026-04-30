@@ -26,7 +26,7 @@ const Footer = () => {
             <div>
                 <p className='font-medium text-xl mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
-                    <li>+254 724 168 604</li>
+                    <li>+254 712 345 678</li>
                     <li>contact@foreveryou.com</li>
                 </ul>
             </div>
